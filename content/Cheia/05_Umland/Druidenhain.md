@@ -13,15 +13,6 @@ Der Wald wird nicht primär als Ressource oder Jagdgebiet verstanden, sondern al
 ## Verbindung zu Klassen
 Besonders relevant für Druiden und naturverbundene Charaktere.
 
-## Noch offen
-- genaue Lage
-- Größe
-- Zugang
-- Bewohner
-- Verhältnis zu den Jägern
-- Naturphänomene
-- Lore
-
 ## Orts-Skizze
 
 ![[Druidenhain.png]]
