@@ -18,14 +18,6 @@ Viele Betriebe benötigen Rohmaterialien aus dem Umland.
 ## Abgrenzung
 Gerber und Färber liegen wegen Geruch und Abwässern eher in [[Freitor]] bzw. teilweise außerhalb der Stadtmauer.
 
-## Noch offen
-- genaue Gewerbeverteilung
-- Werkstätten
-- Lager
-- Wohnbereiche
-- Straßen
-- Lore
-
 ## Ergänzungen aus älteren Fassungen
 
 Hier zählt, was hergestellt, transportiert, repariert oder verkauft werden kann. Das Viertel ist weniger elitär als [[Lichtenberg]], aber nicht automatisch freundlich: Wer nichts kann oder nichts hat, muss sich seinen Platz erst verdienen.
@@ -35,8 +27,6 @@ Hier zählt, was hergestellt, transportiert, repariert oder verkauft werden kann
 - Händler benötigen Träger oder Begleitschutz.
 - Lieferungen kommen zu spät oder verschwinden.
 - Streit über Preise, Material und Verträge.
-
-Der Westen eignet sich damit als erster Einstiegspunkt für eine Gruppe, die zeigen muss, dass sie nützlich ist.
 
 Gewerbe- und Arbeiterviertel. Hier lebt ein großer Teil der arbeitenden Bevölkerung Hilldes.
 

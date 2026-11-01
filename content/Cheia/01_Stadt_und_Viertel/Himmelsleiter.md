@@ -25,13 +25,6 @@ Mögliche Einrichtungen:
 ## Religiöse Abgrenzung
 Der Tempel liegt bewusst auf Distanz zur [[Kirche des Helm]] in [[Lichtenberg]].
 
-## Noch offen
-- genaue Lage
-- Einrichtungen
-- Künstler
-- Verhältnis zu anderen Vierteln
-- Lore
-
 ## Ergänzungen aus älteren Fassungen
 
 Karitativ und künstlerisch geprägt. Das Viertel ist stärker auf Gemeinschaft, Hilfe und kulturelles Leben ausgerichtet als die wohlhabenderen Bezirke.

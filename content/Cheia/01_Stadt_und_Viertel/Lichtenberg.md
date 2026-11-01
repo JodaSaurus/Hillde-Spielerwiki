@@ -15,13 +15,6 @@ Magische Institution mit eigener Bibliothek. Seltene Werke befinden sich dort, s
 ### [[Theater]]
 Liegt zwischen Lichtenberg und [[Goldenring]] und bildet einen Übergang zwischen gehobenem Viertel und öffentlichem Stadtzentrum.
 
-## Noch offen
-- Architektur
-- Bewohner
-- genaue Lage der Einrichtungen
-- weitere Geschäfte
-- Lore
-
 ## Ergänzungen aus älteren Fassungen
 
 Das nobelste Viertel Hilldes. Geprägt von Wohlstand, Bildung, Repräsentation und gesellschaftlichem Einfluss.
