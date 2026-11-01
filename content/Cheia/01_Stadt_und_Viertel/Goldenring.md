@@ -28,14 +28,6 @@ Bietet unter anderem:
 - Kaserne zwischen Goldenring und Freitor
 - Theater zwischen Goldenring und Lichtenberg
 
-## Noch offen
-- Marktaufbau
-- weitere Geschäfte
-- Rathaus/Stadtverwaltung
-- Gasthäuser
-- Lore
-
-
 ## Ergänzungen aus älteren Fassungen
 
 Handels- und Stadtzentrum von Hillde. Das Viertel ist laut, dicht, vergleichsweise wohlhabend und voller Reisender, Händler, Handwerker, Abenteurer und Marktbesucher.
@@ -65,11 +57,6 @@ Das normale, ehrbare Gasthaus in unmittelbarer Nähe der Abenteurergilde.
 
 Goldenring ist der beste Ort, um Informationen aufzuschnappen, Preise zu vergleichen und Menschen aus verschiedenen Schichten zu treffen. Wer neu in Hillde ist, fällt hier auf, ohne automatisch als Bedrohung zu gelten.
 
-- [[Einkaufsszene Hillde]]
-- [[Gerüchte in Hillde]]
-- [[Zufallsereignisse in Hillde]]
-- erste Kontakte zu [[Perrin Kupfer]], [[Marael]], [[Hanno Brecht]] und [[Mara Venn]]
-
 ## Wichtige Orte
 - [[Perrins Gemeinschaftswaren]]
 - [[Abenteurergilde]]
@@ -77,5 +64,3 @@ Goldenring ist der beste Ort, um Informationen aufzuschnappen, Preise zu verglei
 - Geld- und Wechselgeschäfte
 
 Hier begegnen sich Händler, Reisende, Abenteurer und wohlhabende Bürger. Informationen sind fast so wertvoll wie Waren.
-
-[[03_NPCs/Seraphiel Avaris]] nutzt die Nähe zum Markt bewusst, um aus Hilfe gesellschaftlichen Einfluss entstehen zu lassen.
