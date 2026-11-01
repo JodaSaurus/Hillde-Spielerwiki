@@ -23,7 +23,3 @@ Gehobenes Gasthaus für wohlhabende Reisende, Kaufleute, Beamte, Gelehrte und Be
 
 Ruhig, gepflegt und deutlich statusbewusster als die anderen Gasthäuser. Gäste erwarten gutes Benehmen und zuverlässigen Service.
 Dort ist auch [[Lorian Vale]] als Barde beschäftigt.
-
-## Für die ersten Sessions
-
-Das Gasthaus ist zunächst eher ein Beobachtungspunkt für die gesellschaftlichen Unterschiede Hilldes. Später kann es als Treffpunkt für Händler, Beamte und Angehörige wohlhabender Familien wichtig werden.
