@@ -49,6 +49,3 @@ Tavian ist pflichtbewusst und geduldig, aber misstrauisch gegenüber Selbstjusti
 - Arrest und Verwaltung
 
 Die Stadtwache schützt die Bürger und sichert Tore und Handelswege. Sie reicht aber nicht aus, um die gesamte Wildnis des Countys zu kontrollieren. Deshalb besteht ein hoher Bedarf an [[Abenteurergilde|Abenteurern]].
-
-## Schwachstelle
-Ein Teil der Wache nimmt Bestechung an. Tavian weiß nicht, wie weit das Netzwerk reicht.
