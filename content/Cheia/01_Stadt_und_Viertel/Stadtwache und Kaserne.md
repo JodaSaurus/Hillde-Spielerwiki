@@ -22,14 +22,6 @@ Die Lage berücksichtigt die Metallvorkommen im Umland.
 ## Verbindung zu Klassen
 Besonders relevant für Kämpfer und Paladine.
 
-## Noch offen
-- Größe
-- Rangstruktur
-- Hauptmann
-- Verhältnis zur Kirche des Helm
-- Verhältnis zur Abenteurergilde
-- Lore
-
 ## Orts-Skizze
 
 ![[Kaserne außen.png]]
