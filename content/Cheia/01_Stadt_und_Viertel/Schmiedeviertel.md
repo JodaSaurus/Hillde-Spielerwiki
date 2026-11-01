@@ -23,7 +23,7 @@ Feuer, Rauch, Metall, Hämmern und Transport von Rohmaterialien.
 
 ## Orts-Skizze
 
-[[Schmiede.png]]
+![[Schmiede.png]]
 
 ## Ergänzungen aus älteren Fassungen
 
