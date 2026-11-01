@@ -16,6 +16,3 @@ Dichtes Gedränge, Marktstände, Händler, Karren, Handwerker und Reisende. Hier
 - Reisebedarf
 - einfache Haushaltswaren
 - regionale Rohstoffe
-
-## Für die ersten Sessions
-Der Markt ist der natürliche Ort für die [[Einkaufsszene Hillde]]. Hier können die Spieler erste Preise kennenlernen, [[Perrin Kupfer]] treffen und erste Gerüchte hören.
