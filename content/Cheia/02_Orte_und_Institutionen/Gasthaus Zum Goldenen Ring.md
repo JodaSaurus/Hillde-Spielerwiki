@@ -46,10 +46,6 @@ Hanno ist freundlich, aufmerksam, bodenständig und diskret. Als ehemaliger Fuhr
 ## Atmosphäre
 
 Lebendig, aber nicht chaotisch. Händler, Reisende und Abenteurer mischen sich mit Stadtbewohnern.
-
-## Für die ersten Sessions
-
-- erster sicherer Aufenthaltsort der Gruppe
 - Gerüchtequelle
 - Ausgangspunkt für die [[Einkaufsszene Hillde]]
 - Ort der Barschlägerei
