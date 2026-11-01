@@ -21,13 +21,6 @@ Profitiert von Metallvorkommen im Umland.
 ## Atmosphäre
 Feuer, Rauch, Metall, Hämmern und Transport von Rohmaterialien.
 
-## Noch offen
-- Größe
-- wichtigste Betriebe
-- wichtigste Schmiede
-- Herkunft/Verarbeitung der Metalle
-- Lore
-
 ## Orts-Skizze
 
 ![[Schmiede.png]]
