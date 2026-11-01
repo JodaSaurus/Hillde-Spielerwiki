@@ -17,16 +17,6 @@ Offene, etablierte Institution für Abenteurer.
 - Gemeinschaftsräume
 - Unterkunft für durchreisende Abenteurer
 
-## Noch offen
-- Name
-- Leitung
-- Aufnahmebedingungen
-- Rangsystem
-- Gebühren
-- Verhältnis zur Stadtwache
-- Verhältnis zu den Kirchen
-- Lore
-
 ## Orts-Skizze
 
 ![[Gilde außen.png]]
@@ -54,6 +44,3 @@ Die Gilde ist ein Knotenpunkt für Informationen. Händler, Behörden und Privat
 - [[Kaelens Gruppe]] ist eine etablierte Rivalengruppe innerhalb der Gilde.
 - Die Gilde kann mit Händlern, Stadtwache und Institutionen zusammenarbeiten.
 - Sie ist nicht automatisch loyal zu einer einzelnen politischen Fraktion.
-
-## Für Spieler
-Die Gilde ist eine Option, nicht der erzwungene Startpunkt. Je nach Eintrittsrichtung nach Hillde können die Spieler zunächst bei [[Ilmater]], im [[Freitor]] oder in [[Kornguten]] landen.
