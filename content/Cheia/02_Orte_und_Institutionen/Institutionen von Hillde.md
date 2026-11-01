@@ -7,8 +7,6 @@
 - [[Kaserne]]
 - [[Schmiede]]
 - [[Perrins Gemeinschaftswaren]]
-- [[Spelunke]]
-- [[Hehler]]
 - [[Theater]]
 - [[Gerber und Färber]]
 - [[Haus der offenen Hand]]
