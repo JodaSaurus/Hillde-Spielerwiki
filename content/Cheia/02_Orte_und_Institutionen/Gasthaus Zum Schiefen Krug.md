@@ -26,7 +26,3 @@ Günstiges, einfaches Gasthaus für Arbeiter, Reisende, Fuhrleute und Menschen, 
 ## Atmosphäre
 
 Enger als das Gasthaus in Goldenring. Stammgäste kennen einander; Fremde werden zunächst beobachtet, aber nicht automatisch abgewiesen.
-
-## Für die ersten Sessions
-
-Ein guter Ort, um die wirtschaftliche Realität Freitors zu erleben und Gerüchte aufzuschnappen, die in Goldenring nicht offen erzählt werden.
