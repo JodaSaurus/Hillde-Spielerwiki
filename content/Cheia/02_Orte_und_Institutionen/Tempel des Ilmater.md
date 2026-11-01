@@ -22,13 +22,6 @@ Besonders relevant für Mönche und Kleriker.
 ## Abgrenzung
 Bewusst auf Distanz zur [[Kirche des Helm]] in [[Lichtenberg]].
 
-## Noch offen
-- Architektur
-- Priesterschaft
-- karitative Einrichtungen
-- Verhältnis zur Kirche des Helm
-- Lore
-
 ## Orts-Skizze
 
 ![[Ilmater außen.png]]
@@ -42,9 +35,6 @@ Bewusst auf Distanz zur [[Kirche des Helm]] in [[Lichtenberg]].
 - Unterkunft
 - Nahrungshilfe
 - geistlicher Beistand
-
-## Abgrenzung
-Bewusst auf Distanz zur [[Kirche des Helm]] in [[Lichtenberg]], ohne dass daraus ein offener Religionskrieg entsteht.
 
 ## Offizielle Funktion
 - Versorgung Bedürftiger
