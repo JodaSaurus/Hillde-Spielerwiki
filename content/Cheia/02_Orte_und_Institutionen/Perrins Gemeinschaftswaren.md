@@ -10,5 +10,3 @@ Perrin eignet sich besonders gut als wiederkehrender, niedrigschwelliger NPC: Di
 ![[Perrin außen.png]]
 
 ![[Perrins innen.png]]
-
-[[Einkaufsszene Hillde]]
