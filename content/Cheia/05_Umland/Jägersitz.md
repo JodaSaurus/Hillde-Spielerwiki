@@ -13,18 +13,6 @@ Anlaufpunkt für:
 ## Umgebung
 In der Nähe des Waldes, aber nicht tief im [[Düsterwald]].
 
-## Abgrenzung
-Der [[Druidenhain]] liegt bewusst auf Distanz zum Jägersitz.
-
-## Noch offen
-- Größe
-- Bewohner
-- Gebäude
-- Jagdgebiet
-- Verhältnis zu Hillde
-- Verhältnis zum Druidenhain
-- Lore
-
 ## Orts-Skizze
 
 ![[Jägersitz außen.png]]
@@ -32,7 +20,6 @@ Der [[Druidenhain]] liegt bewusst auf Distanz zum Jägersitz.
 ![[Jägersitz Grundriss.png]]
 
 ![[Jägersitz innen.png]]
-
 
 ## Ergänzungen aus älteren Fassungen
 
